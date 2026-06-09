@@ -17,7 +17,7 @@ int main(){
         cout<<"enter number "<<i<<":"<<endl;
         cin>>a[i];
         }
-    cout<<"the elements of array are : "<<endl;
+    cout<<"the elements of array are this : "<<endl;
     for(int i=0;i<5;i++){
         cout<<a[i];
     }
